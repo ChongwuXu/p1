@@ -40,14 +40,6 @@
 			"name": "promise"
 		},
 		{
-			"name": "protobuf-library",
-			"path": "../thirdparty/protobuf/library"
-		},
-		{
-			"name": "protobuf-bundles",
-			"path": "../thirdparty/protobuf/bundles"
-		},
-		{
 			"name": "jszip",
 			"path": "../thirdparty/jszip"
 		}
